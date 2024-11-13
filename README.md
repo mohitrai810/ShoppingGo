@@ -2,6 +2,11 @@
 
 A fully functional e-commerce platform developed using **Spring Boot** for the backend and **JSP** for the frontend. This project showcases the implementation of core e-commerce features such as product management and user authentication.
 
+## Screenshots :
+    ![WhatsApp Image 2024-11-14 at 01 44 42_6e57a825](https://github.com/user-attachments/assets/932e2046-0028-4660-a5e6-e2d45e69c18e)
+    ![WhatsApp Image 2024-11-14 at 01 48 32_0a71f4d5](https://github.com/user-attachments/assets/e7a84fb3-050c-4d3c-93b0-2ea9c0fbf939)
+    ![WhatsApp Image 2024-11-14 at 01 49 12_8c6a172c](https://github.com/user-attachments/assets/73c57296-f7b5-4d2a-8623-20df7a26cced)
+
 ## Features
 
 - **CRUD Operations**: 
@@ -40,10 +45,5 @@ The project uses a pre-designed frontend form for user login and registration, a
 4. Run the application
    ``` mvn spring-boot:run
    mvn spring-boot:run
-## Screenshots :
-    ![WhatsApp Image 2024-11-14 at 01 44 42_6e57a825](https://github.com/user-attachments/assets/932e2046-0028-4660-a5e6-e2d45e69c18e)
-    ![WhatsApp Image 2024-11-14 at 01 48 32_0a71f4d5](https://github.com/user-attachments/assets/e7a84fb3-050c-4d3c-93b0-2ea9c0fbf939)
-    ![WhatsApp Image 2024-11-14 at 01 49 12_8c6a172c](https://github.com/user-attachments/assets/73c57296-f7b5-4d2a-8623-20df7a26cced)
-
 ## Acknowledgments
  frontend code : https://github.com/navinreddy20/ecom-frontend-5
