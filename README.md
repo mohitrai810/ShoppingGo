@@ -35,10 +35,11 @@ The project uses a pre-designed frontend form for user login and registration, a
    spring.jpa.hibernate.ddl-auto=update
    spring.jpa.show-sql=true
 3. Build the project using Maven:
-   ```mvn clean install
+   ``` mvn clean install
+   mvn clean install
 4. Run the application
-   ```mvn spring-boot:run
-
+   ``` mvn spring-boot:run
+   mvn spring-boot:run
 ## Screenshots :
     ![WhatsApp Image 2024-11-14 at 01 44 42_6e57a825](https://github.com/user-attachments/assets/932e2046-0028-4660-a5e6-e2d45e69c18e)
     ![WhatsApp Image 2024-11-14 at 01 48 32_0a71f4d5](https://github.com/user-attachments/assets/e7a84fb3-050c-4d3c-93b0-2ea9c0fbf939)
