@@ -1,4 +1,4 @@
-# E-Commerce Website
+# ShoppingGO
 
 A fully functional e-commerce platform developed using **Spring Boot** for the backend and **JSP** for the frontend. This project showcases the implementation of core e-commerce features such as product management and user authentication.
 
